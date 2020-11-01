@@ -1,0 +1,105 @@
+.body{
+    background-image:url("https://miro.medium.com/max/1600/1*LaXAkc_NaSiIP-SZCtgzxg.gif");
+    background-size:cover;
+    height:100%;
+  }
+  
+  .size{
+    font-size:20px;
+    margin-top:-25px;
+    margin-left:45px;
+  }
+  
+  .navsize{
+    height:80px;
+    background:orange;
+  }
+  
+  .img1{
+    height:40px;
+  border-radius:180px;
+  }
+  
+  .white{
+    color:white;
+  }
+  
+  .send{
+    margin-left:1000px;
+  }
+  
+  .h1{
+    margin-left:1080px;
+    margin-top:40px;
+  }
+  .chatbot{
+    margin-top: -120px;
+    background:rgba(0, 0, 0, 0.582);
+      height: 550px;
+      width: 500px;
+      border-radius: 40px;
+      margin-left:1000px;
+  }
+  
+  .inp1{
+    width:300px;
+    height:60px;
+    margin-left:35px;
+    margin-top:35px;
+    border-radius: 30px;
+  }
+  
+  .inp2{
+    width:300px;
+    height:60px;
+    margin-left:35px;
+    margin-top:10px;
+    border-radius: 30px;
+  }
+  
+  .inp3{
+    width:300px;
+    height:60px;
+    margin-left:35px;
+    margin-top:10px;
+    border-radius: 30px;
+  }
+  
+  .b1{
+    margin-left: 50px;
+    margin-top:3px;
+  }
+  
+  .b2{
+    margin-left: 50px;
+    margin-top:3px;
+  }
+  
+  .b3{
+    margin-left: 50px;
+    margin-top:3px;
+  }
+  
+  .p1{
+    color:white;
+    width:420px;
+    border-radius:30px;
+    margin-left:75px;
+    margin-top: 10px;
+  }
+  
+  .p2{
+    color: white;
+    width:420px;
+    border-radius:30px;
+    margin-left:75px;
+    margin-top: 10px;
+  }
+  
+  .p3{
+    color: white;
+    width:420px;
+    border-radius:30px;
+    margin-left:75px;
+  margin-top: 10px;
+  }
